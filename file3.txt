@@ -1,1 +1,10 @@
 Este é um exemplo de um ficheiro de texto file3
+
+
+
+Fiz uma alteração no file3.txt
+
+
+
+
+Mais uma linha para o povo
