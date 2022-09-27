@@ -1,10 +1,13 @@
-Este é um exemplo de um ficheiro de texto file3
+Este é um exemplo de um ficheiro de texto file3.txt
+
+<h2>Bebidas</h2>
+
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
 
 
 
-Fiz uma alteração no file3.txt
 
-
-
-
-Mais uma linha para o povo
