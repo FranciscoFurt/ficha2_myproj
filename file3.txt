@@ -1,10 +1,10 @@
-Este é um exemplo de um ficheiro de texto file3
+<h1>Listas de coisas</h1>
 
 
+<h2>Comidas</h2>
 
-Fiz uma alteração no file3.txt
-
-
-
-
-Mais uma linha para o povo
+<ul>
+  <li>Bolos</li>
+  <li>Tostas</li>
+  <li>Sandes</li>
+</ul>
