@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Este é um exemplo de um ficheiro de texto file3.txt
 
@@ -10,11 +11,18 @@ Este é um exemplo de um ficheiro de texto file3.txt
   <li>Tea</li>
   <li>Milk</li>
 </ul>
-
+=======
+<h1>Listas de coisas</h1>
+>>>>>>> NovaFeature
 
 
 <h2>Comidas</h2>
 
+<<<<<<< HEAD
+<h2>Comidas</h2>
+
+=======
+>>>>>>> NovaFeature
 <ul>
   <li>Bolos</li>
   <li>Tostas</li>
